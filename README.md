@@ -8,8 +8,8 @@ Instructions:
 2. set your print level in the header of the sketch (e.g. 0.5 & 0 , this will create a level from 0 to 0.5)
 3. render your object with "F6" and export it as .stl
 4. load your .stl into your slicer/g-code creator. Use following settings
-        - Infill: 50%
-        - z-axis lift: 3 mm (this will lift the z-axis during moves, to prevent the printer from crashing. It has to be                               at least as high as the print is)
+        -- Infill: 50%
+        -- z-axis lift: 3 mm (this will lift the z-axis during moves, to prevent the printer from crashing. It has to be at least as high as the print is)
 5. Export the G-Code and print it with your favorite color
 6. when the level is finished remove the skirt and the support blocks in the corners but leave the object itself
 7. repeat from step 2 with new levels (now following 1 & 0.5 , this will the printer affect to build ontop of the first     level)
@@ -19,7 +19,7 @@ Notes: With the settings above the printer should not crash into the levels prin
        
 Images:
 
-<a target="_blank"><img src="https://photos-5.dropbox.com/t/2/AABEmH0YDP2A3U8dGDduWiodjGcm0X3Po2pN1ZABy3_gpA/12/87296860/jpeg/32x32/3/_/1/2/IMG_20150403_223729-Edit.jpg/CNyW0CkgASACIAMoASgCKAM/2LlOxDnRnzzQHlNPDqReGzhm5Aq_BRVPUHcOygBflBc?size=1024x768" border="0"></a>
+<a target="_blank"><img src="https://www.dropbox.com/s/2yxomk68rvokwyl/IMG_20150403_223729-Edit.jpg?dl=0" border="0"></a>
 
 <a target="_blank"><img src="https://photos-6.dropbox.com/t/2/AAAySxBiyuQyGWgMCqpb_objgBQlFv9Xm07NjdgM0AA5Ng/12/87296860/jpeg/32x32/3/_/1/2/IMG_20150403_223710-Edit.jpg/CNyW0CkgASACIAMoASgCKAM/JEXg_pTyVOwQPxf1AheL07w-5Wr7nIKYNbUYtICrbmo?size=1024x768" border="0"></a>
 
