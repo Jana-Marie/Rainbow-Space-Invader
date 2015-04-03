@@ -4,7 +4,7 @@ bottom_height = 0.5;		//height of the last level
 difference(){
 union(){
 
-import("/home/janhenrik/Downloads/invader.stl", convexity=3); //A Space Invader for example
+import("invader.stl", convexity=3); //A Space Invader for example, Replace "invader.stl" with your file/path
 
 }
 
