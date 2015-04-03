@@ -19,11 +19,7 @@ Notes: With the settings above the printer should not crash into the levels prin
        
 Images:
 
-![alt tag](http://s17.postimg.org/nmlbjt4in/IMG_20150403_223729_Edit.jpg)
-![My image](http://postimg.org/image/xwnqj1ue3/)
-
-<a target="_blank"><img src="https://photos-6.dropbox.com/t/2/AAAySxBiyuQyGWgMCqpb_objgBQlFv9Xm07NjdgM0AA5Ng/12/87296860/jpeg/32x32/3/_/1/2/IMG_20150403_223710-Edit.jpg/CNyW0CkgASACIAMoASgCKAM/JEXg_pTyVOwQPxf1AheL07w-5Wr7nIKYNbUYtICrbmo?size=1024x768" border="0"></a>
-
-<a target="_blank"><img src="https://photos-3.dropbox.com/t/2/AADvX_lK2Cr3WX8J0hqVpn-1rMBmiy6zucUTr48zABtHhQ/12/87296860/jpeg/32x32/3/_/1/2/IMG_20150403_223758-Edit.jpg/CNyW0CkgASACIAMoASgCKAM/izZH9VJ8SbTkexbEjTKsE-rdBHuYIg5ew-HC4Gi8eWY?size=1024x768" border="0"></a>
-
-<a target="_blank"><img src="https://photos-6.dropbox.com/t/2/AADZikyKM01H-AwhFEfaUFvxbSAqRhVxze90LcOxZ4z5Gg/12/87296860/jpeg/32x32/3/_/1/2/IMG_20150403_223744-Edit.jpg/CNyW0CkgASACIAMoASgCKAM/ttlSrPxzOoLKvwlLG0BzpEaYBZrAAiBWzT0SgpkD5IQ?size=1024x768" border="0"></a>
+![image](http://s17.postimg.org/nmlbjt4in/IMG_20150403_223729_Edit.jpg)
+![image](http://s27.postimg.org/9cd8bf6nn/IMG_20150403_223710_Edit.jpg)
+![image](http://s27.postimg.org/r2jia79mb/IMG_20150403_223758_Edit.jpg)
+![image](http://s22.postimg.org/svs8o84ch/IMG_20150403_223744_Edit.jpg)
