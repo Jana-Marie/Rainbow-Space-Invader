@@ -1,7 +1,7 @@
 # Rainbow-Space-Invader
 
 
-With the OpenScad sketch provided, you can print rainbow colored objects/space Invaders. To do so, the sketch will slice your object into levels, which you can print level by level with a different color. It will also provide structure, wich will the printer allow to stack and align the levels perfectly.
+With the OpenScad sketch provided, you can print multi/rainbow colored objects/space Invaders. To do so, the sketch will slice your object into levels, which you can print level by level with a different color. It will also provide structure, wich will the printer allow to stack and align the levels perfectly.
 
 Instructions:
 
