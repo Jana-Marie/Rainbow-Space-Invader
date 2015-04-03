@@ -19,7 +19,7 @@ Notes: With the settings above the printer should not crash into the levels prin
        
 Images:
 
-<a target="_blank"><img src="http://postimg.org/image/xwnqj1ue3/" border="0"></a>
+![alt tag](http://s17.postimg.org/nmlbjt4in/IMG_20150403_223729_Edit.jpg)
 ![My image](http://postimg.org/image/xwnqj1ue3/)
 
 <a target="_blank"><img src="https://photos-6.dropbox.com/t/2/AAAySxBiyuQyGWgMCqpb_objgBQlFv9Xm07NjdgM0AA5Ng/12/87296860/jpeg/32x32/3/_/1/2/IMG_20150403_223710-Edit.jpg/CNyW0CkgASACIAMoASgCKAM/JEXg_pTyVOwQPxf1AheL07w-5Wr7nIKYNbUYtICrbmo?size=1024x768" border="0"></a>
