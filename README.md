@@ -17,6 +17,7 @@ Instructions:
 
 Notes: With the settings above the printer should not crash into the levels printed before.
        The 4 blocks in the corners are there to help align the object (they kind of "mark" the outline of the print)
+       Tested with the Space-Invader by User_4574 http://www.thingiverse.com/thing:35870
        
 To-do: Improving the spacing and positioning system
        
