@@ -23,15 +23,15 @@ cube([30,30,bottom_height]);
 //markers to aling the 3D-Print in the middle, dont move them, the G-Code-Interpreter will need them!
 
 translate([37.5,30,0])
-cube([2,2,bottom_height]);
+cube([2,2,bottom_height+0.1]);
 
 translate([-12,-12,0])
-cube([2,2,bottom_height]);
+cube([2,2,bottom_height+0.1]);
 
 translate([37.5,-12,0])
-cube([2,2,bottom_height]);
+cube([2,2,bottom_height+0.1]);
 
 translate([-12,30,0])
-cube([2,2,bottom_height]);
+cube([2,2,bottom_height+0.1]);
 
 
