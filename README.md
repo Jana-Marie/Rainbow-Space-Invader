@@ -18,7 +18,8 @@ Instructions:
 7. repeat from step 2 with new levels (now following 1 & 0.5 , this will the printer affect to build ontop of the first     level)
 
 Notes: With the settings above the printer should not crash into the levels printed before.
-       The 4 blocks in the corners are there to help align the object (they kind of "mark" the outline of the print)
+       The 4 blocks in the corners are there to help align the object (they kind of "mark" the outline of the print).
+       also they all have to have the same distance to the center of the print, take care of that, if you have to            move them.
        
 Tested with the Space-Invader by User_4574 http://www.thingiverse.com/thing:35870
        
