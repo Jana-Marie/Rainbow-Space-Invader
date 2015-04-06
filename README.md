@@ -3,6 +3,14 @@
 
 With the OpenScad sketch provided, you can print multi/rainbow colored objects/space Invaders. To do so, the sketch will slice your object into levels, which you can print level by level with a different color. It will also provide structure, wich will the printer allow to stack and align the levels perfectly.
 
+Usage:
+
+The sketch is used to slice .stl and other 3D files, like Space-Invaders or Mate-Clips and make them printable in (different colored) layers. Colors \o/
+
+How it works:
+
+It will simply slice the sketch and add some corner marks to it, which allows the 3D-printer to align the prints perfectly.
+
 Instructions:
 
 1. load your obejct into the sketch (look into the sketch for more informations)
