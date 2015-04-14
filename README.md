@@ -29,6 +29,8 @@ Notes: With the settings above the printer should not crash into the levels prin
        The 4 blocks in the corners are there to help align the object (they kind of "mark" the outline of the print).
        also they all have to have the same distance to the center of the print, take care of that, if you have to            move them.
        
+More Tutorial: http://www.instructables.com/id/How-to-3D-Print-multicolored-obejcts/
+       
 Tested with the Space-Invader by User_4574 http://www.thingiverse.com/thing:35870
        
 To-do: Improving the spacing and positioning system
